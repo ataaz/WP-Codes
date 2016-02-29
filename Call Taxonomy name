@@ -1,0 +1,1 @@
+<?php echo get_the_terms($my_query->post->ID,'portfolio_cat')[0]->name; ?>
