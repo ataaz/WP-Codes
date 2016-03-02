@@ -1,2 +1,2 @@
 # WP-Codes
-first repository
+This repository helps me to develop wordpress themes
